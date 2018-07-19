@@ -13,7 +13,7 @@ BUG: + General Name/Description of bug
 ValkyrieLib Version: 
 Simple Generators Version: 
 Description of bug: 
-Modpack Name: 
+(If Applicable)Modpack Name: 
 How to reproduce bug: 
 ```
 
