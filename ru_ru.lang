@@ -1,3 +1,4 @@
+
 itemGroup.simplegenerators.creative_tab=Simple Generators
 itemgroup.simplegenerators.creative_tab=Simple Generators
 
@@ -5,33 +6,74 @@ gui.simplegenerators.energy=Энергия
 gui.simplegenerators.stored=Хранится
 gui.simplegenerators.capacity=Вместимость
 gui.simplegenerators.fuelbuffer=Топливный буфер
+gui.simplegenerators.fuelbufferlevel=Всего
+gui.simplegenerators.fuelbufferconsumed=Потребление
+gui.simplegenerators.fepermb=FE за mB
+gui.simplegenerators.feperitem=Всего FE
+gui.simplegenerators.fluidtank=Жидкостный резервуар
+gui.simplegenerators.fluid=Жидкость
 
 tile.simplegenerators.combustion_simple.name=Простой генератор горения
 tile.simplegenerators.culinary_simple.name=Простой кулинарный генератор
 tile.simplegenerators.ender_simple.name=Простой генератор Края
 tile.simplegenerators.nether_simple.name=Простой генератор Нижнего мира
 tile.simplegenerators.geothermal_simple.name=Простой геотермальный генератор
+tile.simplegenerators.fluid_combustion_simple.name=Простой генератор жидкостного сгорания
+tile.simplegenerators.turbine_simple.name=Простой турбинный генератор
+tile.simplegenerators.soul_simple.name=Простой генератор душ
 
 tile.simplegenerators.combustion_upgradable.name=Модернизированный генератор горения
 tile.simplegenerators.culinary_upgradable.name=Модернизированный кулинарный генератор
 tile.simplegenerators.ender_upgradable.name=Модернизированный генератор Края
 tile.simplegenerators.nether_upgradable.name=Модернизированный генератор Нижнего мира
 tile.simplegenerators.geothermal_upgradable.name=Модернизированный геотермальный генератор
+tile.simplegenerators.fluid_combustion_upgradable.name=Модернизированный генератор жидкостного сгорания
+tile.simplegenerators.turbine_upgradable.name=Модернизированный турбинный генератор
+tile.simplegenerators.soul_upgradable.name=Модернизированный генератор душ
 
 guide.simplegenerators.buttontitle=Простые генераторы
 guide.simplegenerators.buttontooltip=Руководство по Простым генераторам
+guide.simplegenerators.upgradable=Модернизированный
+guide.simplegenerators.modifierslots=Количество слотов модификатора
+guide.simplegenerators.modifiers=Модификаторы
+guide.simplegenerators.energybuffer=Энергетический буфер
+guide.simplegenerators.energy_tick=Скорость энергии
+guide.simplegenerators.tank=Емкость резервуара
+
+guide.simplegenerators.modifiers.page.title=Модификаторы
+guide.simplegenerators.modifiers.button.title=Модификаторы
 
 guide.simplegenerators.combustion.page.title=Генераторы горения
 guide.simplegenerators.combustion.button.title=Генераторы горения
+guide.simplegenerators.combustion.description=    Генераторы сгорания сжигают горючее твердое топливо для производства энергии. Эти виды топлива могут включать печное топливо и другие.
 
 guide.simplegenerators.culinary.page.title=Кулинарные генераторы
 guide.simplegenerators.culinary.button.title=Кулинарные генераторы
+guide.simplegenerators.culinary.description=    Кулинарные генераторы сжигают продукты для выработки энергии. Эти виды топлива могут включать в себя практически любую пищу.
 
 guide.simplegenerators.ender.page.title=Генераторы Края
 guide.simplegenerators.ender.button.title=Генераторы Края
+guide.simplegenerators.ender.description=    Генераторы Края используют предметы на основе Края для генерации энергии. Это, как правило, такие предметы, жемчуг эндера или око эндера.
 
 guide.simplegenerators.nether.page.title=Генераторы Нижнего мира
 guide.simplegenerators.nether.button.title=Генераторы Нижнего мира
+guide.simplegenerators.nether.description=    Генераторы Нижнего мира используют предметы на основе пустоты для генерации энергии. Это, как правило, такие предметы, как адская звезда или блоки адской звезды.
 
 guide.simplegenerators.geothermal.page.title=Геотермальные генераторы
 guide.simplegenerators.geothermal.button.title=Геотермальные генераторы
+guide.simplegenerators.geothermal.description=    Геотермальные генераторы генерируют энергию из горячих жидкостей, таких как лава.
+
+guide.simplegenerators.fluid_combustion.page.title=Генераторы жидкостного сгорания
+guide.simplegenerators.fluid_combustion.button.title=Генераторы жидкостного сгорания
+guide.simplegenerators.fluid_combustion.description=    Генераторы жидкостного сгорания генерируют энергию из горючих жидкостей, таких как топливо или этанол.
+
+guide.simplegenerators.turbine.page.title=Турбинные генераторы
+guide.simplegenerators.turbine.button.title=Турбинные генераторы
+guide.simplegenerators.turbine.description=    Турбинные генераторы требуют горячие газообразные вещества, таких как пар, для выработки энергии.
+
+guide.simplegenerators.soul.page.title=Генераторы души
+guide.simplegenerators.soul.button.title=Генераторы души
+guide.simplegenerators.soul.description=    Генераторы души требуют предметы, у которых остались остатки душ мобов. Обычно эти предметы - головы мобов или другие редкие выпадания из мобов.
+
+guide.simplegenerators.modifier_speed.desc=    Модификатор скорости увеличит скорость, с которой работает генератор. Следует использовать с осторожностью, так как скорость и расходные материалы увеличиваются одинаково.
+guide.simplegenerators.modifier_efficiency=    Генератор не работает быстрее, но он будет использовать меньше топлива.
